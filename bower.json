@@ -1,0 +1,32 @@
+{
+  "name": "empedernidos",
+  "description": "Sitio para apostar entre la comunidad de internet",
+  "main": "",
+  "authors": [
+    "Carlos Cuamatzin <kuamatzin@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap-sass": "^3.3.6",
+    "vue": "^1.0.17",
+    "vue-resource": "^0.7.0",
+    "font-awesome": "^4.5.0"
+  }
+}
